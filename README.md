@@ -16,11 +16,6 @@ In my free time I like to go to the gym (🏋🏻‍♂️), to watch series (�
 <div style="
 display: flex;
 ">
-  	<img src="./c.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
 	<img src="./html5.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
@@ -46,6 +41,16 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
+	<img src="./nestjs-icon.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./angular.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
 	<img src="./react.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
@@ -61,7 +66,7 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  	<img src="./postgresql.svg" width="50" style="
+  	<img src="./mongodb-icon.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;

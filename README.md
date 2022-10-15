@@ -1,7 +1,7 @@
 ## Hi, I'm André Parada 👋
 
 ### 📝 About
-My name is André Parada a.k.a. "Parada", I'm a Computer Engineer from Brazil (🇧🇷) and currently working as a software engineer. I'm a TS/C#/Java and Angular/Vue/React Developer since 2020 and I'm trying to improve every day my knowledge in this technologys.
+My name is André Parada a.k.a. "Parada", I'm a Computer Engineer from Brazil (🇧🇷) and currently working as a software engineer. I'm a TS/C# and Angular/Vue Developer since 2020 and I'm trying to improve every day my knowledge in this technologys.
 
 In my free time I like to go to the gym (🏋🏻‍♂️), to watch series (📺), to play games (🎮), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
 

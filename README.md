@@ -11,7 +11,7 @@ In my free time I like to go to the gym (🏋🏻‍♂️), to watch series (�
 
 ### 🔝 Languages & Technologies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreparada98&hide=css" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreparada98&layout=compact&langs_count=8&theme=tokyonight" />
 
 <div style="
 display: flex;

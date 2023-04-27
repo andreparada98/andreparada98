@@ -86,7 +86,6 @@ display: flex;
 ![Visitors Count(https://profile-counter.glitch.me/andreparada98/count.svg)](https://profile-counter.glitch.me/andreparada98/count.svg)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreparada98" alt="andreparada98" /></p>
 
- ![Snake animation](https://github.com/andreparada98/andreparada98/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🤔 Would you like to find me?
